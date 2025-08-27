@@ -1,3 +1,18 @@
+# Calculadora IMC
+
+### BR
+Projeto construido com react puro. Calculadora imc que calcula o indice de massa corporal da pessoa, utilizando uma formula padrão. 
+
+## Vizualize o projeto
+(https://calculadora-imc-react-gilt.vercel.app/)
+
+## mockup do projeto
+<img src="https://github.com/LuuizPaes/calculadora-imc-react/blob/master/public/mockup.png?raw=true" alt="mockup-peoject">
+
+### ENG
+Project built with pure react. BMI calculator that calculates a person's body mass index using a standard formula.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
